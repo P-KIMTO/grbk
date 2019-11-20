@@ -105,5 +105,6 @@ GFM a-tail link @pandao
 ```
 代码段
 ```
-![alt图片文本](图片.jpg)
-[网页链接](https://www.???.com)
+![alt图片文本](img/hzw.jpg)
+[![alt图片文本](img/hzw.jpg)](https://www.mdeditor.com)
+[网页链接](https://www.mdeditor.com)
